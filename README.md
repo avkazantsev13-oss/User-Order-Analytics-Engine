@@ -2,6 +2,7 @@
 «User Order Analytics Engine» — это лёгкий, но мощный модуль для моделирования связей между пользователями и их заказами с мгновенным получением агрегированной статистики. Идеально подходит для малого бизнеса, стартапов и разработчиков, которым нужен надёжный инструмент для отслеживания суммы заказов по каждому клиенту.
 
 ❓ Проблема
+
 Вы ведёте клиентскую базу и учёт заказов, но не видите полной картины:
 
 Кто из пользователей ничего не заказал?
@@ -93,6 +94,7 @@ text
 “User Order Analytics Engine” – a lightweight yet powerful module for modeling relationships between users and their orders, with instant aggregated statistics. Perfect for small businesses, startups, and developers who need a reliable tool to track total spend per customer.
 
 ❓ The Problem
+
 You maintain customer records and order logs, but you lack the full picture:
 
 Which users have never placed an order?
